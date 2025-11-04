@@ -176,21 +176,21 @@ export const OTHER_SKILL = [
 export const PROJECTS = [
   {
     title: "🛒 Tekisky Mart – The Future of eCommerce",
-    
+
     image: "/projects/project-1.webp",
-    link: "https://tekiskymart.com/",
+    link: "https://github.com/adii0205",
   },
   {
     title: "Tekisky – The Future of Tech",
 
     image: "/projects/project-2.webp",
-    link: "https://tekisky.com/",
+    link: "https://github.com/adii0205",
   },
   {
     title: "Speedline Auto Parts – The Future of Auto Parts",
-   
+
     image: "/projects/project-3.webp",
-    link: "https://speedlineautoparts.netlify.app/",
+    link: "https://github.com/adii0205",
   },
 ] as const;
 
@@ -202,7 +202,7 @@ export const FOOTER_DATA = [
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com",
+        link: "https://github.com/adii0205",
       },
 
     ],
@@ -214,18 +214,18 @@ export const FOOTER_DATA = [
       {
         name: "Linkedin",
         icon: RxLinkedinLogo,
-        link: "https://www.linkedin.com/in/abdul-raheman-389597281/",
+        link: "https://www.linkedin.com/in/adityajaiswal0205",
       },
     ],
   },
   {
     title: "About",
     data: [
-   
+
       {
         name: "Contact Me",
         icon: null,
-        link: "mailto:arrahmanofficial9@gmail.com",
+        link: "mailto:adityajaiswal33008@gmail.com",
       },
     ],
   },
